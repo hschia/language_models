@@ -9,5 +9,5 @@ Built various transformer architectures from scratch, including the classic enco
 
 2) Sample translation from a 1.5M encoder-decoder from English text to French:
 
-![posterior corner plot](https://raw.githubusercontent.com/hschia/transformer_language_models/main/encoder_decoder_machine_translation/encoder_decoder_machine_translation/sample_translation.png)
+![posterior corner plot](https://raw.githubusercontent.com/hschia/transformer_language_models/main/encoder_decoder_machine_translation/sample_translation.png)
    
