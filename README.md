@@ -1,2 +1,2 @@
 # language_models
-A collection of directories of various transformer architectures for natural language processing, including language models such as the classic encoder- decoder transformer and the GPT-like decoder-only model
+Building various transformer architectures from scratch, including language models such as the classic encoder- decoder transformer for machine translation and the GPT-like decoder-only transformer for language modeling.
